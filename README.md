@@ -127,8 +127,7 @@ python batch_heic_to_jpg.py
 
 ## **作者**
 
-- **作者**: [你的名字](https://github.com/yourusername)
-- **邮箱**: [你的邮箱](mailto:your.email@example.com)
+- **邮箱**: [imydfy@gmail.com]
 
 ---
 
