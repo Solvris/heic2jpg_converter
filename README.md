@@ -44,14 +44,14 @@ pip3 install pillow pyheif pyexiftool
 ### **1. 克隆项目**
 将项目克隆到本地：
 ```bash
-git clone https://github.com/yourusername/heic-to-jpg-converter.git
-cd heic-to-jpg-converter
+git clone https://github.com/venus-25/heic2jpg_converter.git
+cd heic2jpg_converter
 ```
 
 ### **2. 运行脚本**
 运行以下命令启动批量转换工具：
 ```bash
-python batch_heic_to_jpg.py
+python3 heic2jpg_for_xiaomi.py
 ```
 
 脚本会提示输入以下内容：
