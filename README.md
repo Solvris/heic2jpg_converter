@@ -104,7 +104,7 @@ python batch_heic_to_jpg.py
    - 对于大量 HEIC 文件，建议在高性能机器上运行脚本，或分批处理文件。
 
 4. **兼容性**：
-   - 脚本已在 Ubuntu 24.04.2 tls 上测试通过。MacOS和其他linux请自性测试，目前pyheif库不支持Windows平台，可能无法使用不支持 。
+   - 脚本已在 Ubuntu 24.04.2 tls 上测试通过。MacOS和其他linux请自性测试，目前pyheif库不支持Windows平台，可能无法使用 。
 
 ---
 
